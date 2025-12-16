@@ -1,2 +1,2 @@
 # Majas-Personifikasi
-Media INteraktif
+Media Interaktif
